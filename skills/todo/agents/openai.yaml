@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todo"
+  short_description: "Build contextual A-to-Z execution checklists"
+  default_prompt: "Use $todo to scan this chat and its referenced documents, then create a lettered roadmap with numbered subtasks."
