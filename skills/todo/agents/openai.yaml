@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todo"
+  short_description: "Persist contextual A-to-Z execution roadmaps"
+  default_prompt: "Use $todo to scan this chat and its sources, persist the roadmap in the correct workspace location, and report the path."

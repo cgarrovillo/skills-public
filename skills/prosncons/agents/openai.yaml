@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pros and Cons"
+  short_description: "Compare options in a table with clear reasoning"
+  default_prompt: "Use $prosncons to compare these options in a table and explain any recommendation."
