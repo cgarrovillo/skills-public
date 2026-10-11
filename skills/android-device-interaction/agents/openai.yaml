@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Device Interaction"
+  short_description: "Reliable Android device automation guidance"
+  default_prompt: "Use $android-device-interaction to inspect and interact with an Android device reliably."
